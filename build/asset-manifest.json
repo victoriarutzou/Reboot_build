@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b40dc62.css",
+    "main.js": "/static/js/main.8b85548e.js",
+    "static/js/787.d932ccde.chunk.js": "/static/js/787.d932ccde.chunk.js",
+    "static/media/motiongraphic.gif": "/static/media/motiongraphic.117610b2da48463897f4.gif",
+    "static/media/gartnere.svg": "/static/media/gartnere.fbbed7d5b69e0efac53a2f9b47614d73.svg",
+    "static/media/karen.png": "/static/media/karen.55e502a5802a597e1663.png",
+    "static/media/in.png": "/static/media/in.d9b150e5cf71b6fad1d3.png",
+    "static/media/ig.png": "/static/media/ig.7df5b577dc0767454a01.png",
+    "static/media/patrick.png": "/static/media/patrick.dd44cd33344ad8556952.png",
+    "static/media/laura.png": "/static/media/laura.0d5f3d1728bdd9f557d1.png",
+    "static/media/fb.png": "/static/media/fb.0c5f7bdde76a8447d218.png",
+    "static/media/heroBackground.svg": "/static/media/heroBackground.064a053b002d821541106cf7675742df.svg",
+    "static/media/trustpilot.png": "/static/media/trustpilot.deb3627316deb5912dc9.png",
+    "static/media/bigflower.svg": "/static/media/bigflower.d9af416cbde6406043aae43881db30ee.svg",
+    "static/media/middleflower.svg": "/static/media/middleflower.2ff3235d85d9fa48de3d67c5e62d97d6.svg",
+    "static/media/rødder.svg": "/static/media/rødder.17d32f2a16c597f910571acfcac094fa.svg",
+    "static/media/logo.svg": "/static/media/logo.0ebdc6c07e2d7efd45803852c3275e1e.svg",
+    "static/media/littleflower.svg": "/static/media/littleflower.b960aaf3ada8c5ff724f2fd60f0cd52f.svg",
+    "static/media/stjerner.svg": "/static/media/stjerner.452cc4150c4b6f79b9289ff396e4c6f9.svg",
+    "static/media/computer.svg": "/static/media/computer.96e4deb10cc04308f01d33071a91e449.svg",
+    "static/media/smiley.svg": "/static/media/smiley.fcd0b042f94997b804d213ecf8f91c11.svg",
+    "static/media/ledning_cirkel.svg": "/static/media/ledning_cirkel.5f71e4841f488701b4fc1c2cfe3b6d5b.svg",
+    "static/media/vækst.svg": "/static/media/vækst.56dd5822aad15984bd4b32b5d22eb6a5.svg",
+    "static/media/grassdark.svg": "/static/media/grassdark.1c02e18e036189f61a8519203fc2f5b2.svg",
+    "static/media/grass.svg": "/static/media/grass.6e2003db24a0e6ec01217aed77e381e8.svg",
+    "static/media/ledning.svg": "/static/media/ledning.3b070659e5ad915202b482557891cbc0.svg",
+    "index.html": "/index.html",
+    "main.7b40dc62.css.map": "/static/css/main.7b40dc62.css.map",
+    "main.8b85548e.js.map": "/static/js/main.8b85548e.js.map",
+    "787.d932ccde.chunk.js.map": "/static/js/787.d932ccde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b40dc62.css",
+    "static/js/main.8b85548e.js"
+  ]
+}
